@@ -1,10 +1,10 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Navbar from "./tempfolder/Navbar";
+import Hero from "./tempfolder/Hero";
+import About from "./tempfolder/About";
+import Skills from "./tempfolder/Skills";
+import Projects from "./tempfolder/Projects";
+import Contact from "./tempfolder/Contact";
+import Footer from "./tempfolder/Footer";
 
 function App() {
   return (
