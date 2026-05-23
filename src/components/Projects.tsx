@@ -9,8 +9,8 @@ const projects = [
     tech: "React Native • Node.js • MongoDB",
     description:
       "AI-powered mental health support mobile application with chatbot integration.",
-    github: "https://github.com/yourusername/ai-mental-health-companion",
-    demo: "https://yourdemo.com",
+    github: "https://github.com/Gokul768/ai-mental-health-companion",
+    demo: "https://gokul-portfolio-one-navy.vercel.app",
   },
 
   {
@@ -19,8 +19,8 @@ const projects = [
     tech: "React Native • TypeScript",
     description:
       "Responsive physiotherapy management application for clinics and patients.",
-    github: "https://github.com/yourusername/physio-app",
-    demo: "https://yourdemo.com",
+    github: "https://github.com/Gokul768/physio-app",
+    demo: "https://gokul-portfolio-one-navy.vercel.app",
   },
 
   {
@@ -29,8 +29,8 @@ const projects = [
     tech: "React • Express • MongoDB",
     description:
       "Full-stack task management system with authentication and CRUD operations.",
-    github: "https://github.com/yourusername/task-manager",
-    demo: "https://yourdemo.com",
+    github: "https://github.com/Gokul768/task-manager",
+    demo: "https://gokul-portfolio-one-navy.vercel.app",
   },
 ]
 
