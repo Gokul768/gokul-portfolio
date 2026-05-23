@@ -21,12 +21,11 @@ const Contact = () => {
         <div className="flex flex-wrap gap-6">
 
           <a
-            href="mailto:sm.18.gokul768@gmail.com"
-            className="flex items-center gap-3 bg-slate-700 hover:bg-blue-500 transition px-6 py-4 rounded-2xl"
-          >
-            <FaEnvelope size={22} />
-            Email
-          </a>
+  href="mailto:sm.18.gokul768@gmail.com"
+  className="text-blue-400"
+>
+  sm.18.gokul768@gmail.com
+</a>
 
          <a
   href="https://github.com/Gokul768"
