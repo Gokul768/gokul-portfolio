@@ -28,23 +28,21 @@ const Contact = () => {
             Email
           </a>
 
-          <a
-            href="https://github.com/"
-            target="_blank"
-            className="flex items-center gap-3 bg-slate-700 hover:bg-blue-500 transition px-6 py-4 rounded-2xl"
-          >
-            <FaGithub size={22} />
-            GitHub
-          </a>
+         <a
+  href="https://github.com/Gokul768"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  GitHub
+</a>
 
           <a
-            href="https://linkedin.com/"
-            target="_blank"
-            className="flex items-center gap-3 bg-slate-700 hover:bg-blue-500 transition px-6 py-4 rounded-2xl"
-          >
-            <FaLinkedin size={22} />
-            LinkedIn
-          </a>
+  href="https://www.linkedin.com/in/gokulkumar-m-8aa977355"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  LinkedIn
+</a>
 
         </div>
 

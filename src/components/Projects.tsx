@@ -10,7 +10,7 @@ const projects = [
     description:
       "AI-powered mental health support mobile application with chatbot integration.",
     github: "https://github.com/Gokul768/ai-mental-health-companion",
-    demo: "https://gokul-portfolio-one-navy.vercel.app",
+    demo: "https://github.com/Gokul768",
   },
 
   {
@@ -20,7 +20,7 @@ const projects = [
     description:
       "Responsive physiotherapy management application for clinics and patients.",
     github: "https://github.com/Gokul768/physio-app",
-    demo: "https://gokul-portfolio-one-navy.vercel.app",
+    demo: "https://github.com/Gokul768",
   },
 
   {
@@ -30,7 +30,7 @@ const projects = [
     description:
       "Full-stack task management system with authentication and CRUD operations.",
     github: "https://github.com/Gokul768/task-manager",
-    demo: "https://gokul-portfolio-one-navy.vercel.app",
+    demo: "https://github.com/Gokul768",
   },
 ]
 
