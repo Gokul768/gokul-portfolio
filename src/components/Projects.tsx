@@ -27,7 +27,7 @@ const projects = [
       "AI-powered mental health mobile application with chatbot support and personalized user interaction.",
 
     github:
-      "https://github.com/Gokul768/ai-mental-health-companion",
+      "https://github.com/Gokul768/AI-Mental-Health-Companion",
 
     demo:
       "https://github.com/Gokul768",
@@ -42,6 +42,7 @@ const projects = [
       "React Native",
       "TypeScript",
       "Firebase",
+      "express"
     ],
 
     description:
@@ -57,7 +58,7 @@ const projects = [
   {
     image: project3,
 
-    title: "MERN Task Manager",
+    title: "ChatSphere – AI Powered Real-Time Messaging Platform",
 
     tech: [
       "React",
@@ -67,13 +68,13 @@ const projects = [
     ],
 
     description:
-      "Full-stack task management platform with authentication and CRUD functionality.",
+      "Built and live-deployed a production-ready, real-time messaging web application on Vercel and Render.",
 
     github:
-      "https://github.com/Gokul768/task-manager",
+      "https://github.com/Gokul768/ChatSphere-AI-MERN-App",
 
     demo:
-      "https://github.com/Gokul768",
+      "https://chat-sphere-ai-mern-app.vercel.app/",
   },
 
 ];
